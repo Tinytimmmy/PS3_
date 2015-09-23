@@ -76,7 +76,8 @@ public class Account {
 		return annualInterestRate / 12;
 	}
 
-	double withdraw(double money) {
+	double withdraw(double money){
+
 		return balancew = balance - money;
 
 	}

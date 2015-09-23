@@ -3,7 +3,7 @@ package PS3package;
 import java.io.*;
 /**
  * Custom class for throwing an insufficient funds exception
- * @author Dad
+ * @author Tim
  *
  */
 public class InsufficientFundsException extends Exception
